@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Jayyyu1w&show_icons=true&theme=radical" width = "500" alt = "github information">
 <br>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jayyyu1w&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayyyu1w&layout=compact)" width = "50%">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jayyyu1w&layout=compact" width = "50%">
