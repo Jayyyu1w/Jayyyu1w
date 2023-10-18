@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ---
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&size=36&pause=1000&color=00CDF7&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+personal+page!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&size=36&pause=1000&color=00CDF7&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+personal+page!" alt="Typing SVG" /></a>
 
 
   ---
@@ -32,8 +32,25 @@ Here are some ideas to get you started:
 
 
   ---
-
-  <img src = "https://github-readme-stats.vercel.app/api?username=Jayyyu1w&show_icons=true&theme=radical" width = "50%" alt = "github information">
-  <br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jayyyu1w&layout=compact" width = "50%">
+  <div>
+    <h1>Current Project</h1>
+    <div id="gopm">
+      <h3>Give ocean a piece of your mind</h3>
+      <img src="https://github.com/Jayyyu1w/Jayyyu1w/assets/75748924/20907473-a68c-4ed1-b14e-c05eef0709bb" alt="gopm" width="300">
+      <br>
+      <a href="https://github.com/NTOU-Arrays-Start-at-One/Give-ocean-a-piece-of-your-mind">Project Link</a>
+    </div>
+    <div id="proglearn">
+      <h3>Proglearn</h3>
+      <img src="https://github.com/Jayyyu1w/Jayyyu1w/assets/75748924/eb368e47-1439-4b36-b3e7-2b7d481f114e" alt="proglearn" width=300>
+      <br>
+      <a href="#">專案目前不公開</a>
+    </div>
+  </div>
+  <div>
+    <h1>My Status</h1>
+    <img src = "https://github-readme-stats.vercel.app/api?username=Jayyyu1w&show_icons=true&theme=radical" width = "50%" alt = "github information">
+    <br>
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jayyyu1w&layout=compact" width = "50%">
+  </div>
 </div>
