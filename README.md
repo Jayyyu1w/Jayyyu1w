@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
   ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
   ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+  ![Kotlin Badge](https://img.shields.io/badge/Kotlin-A92CED?logo=kotlin&logoColor=fff&style=flat)
   ![Docker Badge](https://img.shields.io/badge/Docker-1D62ED?logo=docker&logoColor=white)
 
 
@@ -44,7 +45,7 @@ Here are some ideas to get you started:
       <h3>Proglearn</h3>
       <img src="https://github.com/Jayyyu1w/Jayyyu1w/assets/75748924/eb368e47-1439-4b36-b3e7-2b7d481f114e" alt="proglearn" width=300>
       <br>
-      <a href="#">專案目前不公開</a>
+      <div>專案目前不公開</div>
     </div>
   </div>
   <div>
