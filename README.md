@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
   ![Kotlin Badge](https://img.shields.io/badge/Kotlin-A92CED?logo=kotlin&logoColor=fff&style=flat)
   ![Docker Badge](https://img.shields.io/badge/Docker-1D62ED?logo=docker&logoColor=white)
+  ![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
 
 
   ---
