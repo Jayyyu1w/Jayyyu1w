@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 ---
 <div align="center">
+  
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&width=700&height=100&lines=Welcome+to+my+personal+page!" alt="Typing SVG" /></a>
-</div>
 
 
   ---
